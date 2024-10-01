@@ -22,3 +22,4 @@ Stilare il layout nei dettagli con Sass*/
 - sempre in phpMyAdmin, importo la tabella movies in allegato nel mio database
 - modifico il file .env per inserire le mie credenziali
 - creo il model Movie.php tramite il comando php artisan make:model Movie
+- Crea il controller PageController (elimino il file welcome.blade.php per evitare conflitti tra le rotte e le views).
