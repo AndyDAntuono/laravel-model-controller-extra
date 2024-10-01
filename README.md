@@ -24,3 +24,4 @@ Stilare il layout nei dettagli con Sass*/
 - creo il model Movie.php tramite il comando php artisan make:model Movie
 - creo il controller PageController (elimino il file welcome.blade.php per evitare conflitti tra le rotte e le views).
 - creo una cartella movies e all'interno di essa creo un file index.blade.php.
+- nel file routes/web.php, imposto la rotta per visualizzare la pagina dei film.
